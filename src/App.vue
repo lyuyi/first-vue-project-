@@ -22,7 +22,7 @@ export default {
   data: function () {
     return {
       title1: 'this is a todo list',
-      title: 'this is a vue',
+      title: 'Welcome !',
       msg: '<span>Simply todolist - vuejs</span>',
       items: Store.fetch(),
       newItem: '',
